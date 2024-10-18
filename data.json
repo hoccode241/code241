@@ -1,0 +1,18 @@
+{
+  "Aatrox": [
+    {
+      "id": "266000",
+      "num": "0",
+      "name": "Aatrox",
+      "chromas": "false",
+      "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Aatrox_0.jpg"
+    },
+    {
+      "id": "266000",
+      "num": "2",
+      "name": "Aatrox",
+      "chromas": "false",
+      "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Aatrox_2.jpg"
+    }
+  ]
+}
